@@ -1,0 +1,12 @@
+fastapi>=0.100
+uvicorn>=0.20
+python-multipart>=0.0.5
+textblob>=0.17
+googletrans>=4.0
+pymongo>=4.0
+python-dotenv>=1.0
+groq>=0.4
+transformers>=4.30
+torch>=2.4.0
+slowapi>=0.1.5
+deep-translator>=1.11.4
