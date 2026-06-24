@@ -27,13 +27,6 @@ Echo Connect is divided into two primary subsystems:
 - `/documentation/` - Deep architectural diagrams, flowcharts, and schema descriptions.
 - `/tests/` - Pytest suites verifying the AI state machine logic.
 
-##  Essential Documentation
-
-For examiners and evaluators reviewing this CD, please refer to the following documents:
-
-1. **[INSTALLATION_GUIDE.md](./INSTALLATION_GUIDE.md)**: Step-by-step instructions on how to install dependencies and run the application locally.
-2. **[PROJECT_SYNOPSIS.md](./PROJECT_SYNOPSIS.md)**: A high-level abstract and summary of the project's features and engineering highlights.
-3. **[REPORT_EVIDENCE.md](./REPORT_EVIDENCE.md)**: A ledger pointing to exact lines of code proving the implementation of advanced features.
 
 ---
 
